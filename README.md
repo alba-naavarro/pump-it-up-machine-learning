@@ -1,4 +1,4 @@
-# 💧 Pump It Up: Water Pump Status Prediction
+# 💧🗺️ Pump It Up: Water Pump Status Prediction
 
 ## Overview
 

@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains a **Machine Learning** project that predicts the operational status of water pumps in Tanzania using the **Pump It Up: Data Mining the Water Table** dataset.
+This repository contains a **Machine Learning** project that predicts the operational status of water pumps in Tanzania using the **Pump It Up: Data Mining the Water Table**(https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/) dataset.
 
 The project follows a complete end-to-end machine learning pipeline, including **exploratory data analysis**, **data preprocessing**, **feature engineering**, **feature selection**, **class imbalance handling**, **model training**, **hyperparameter tuning**, and **performance evaluation**.
 

@@ -66,7 +66,7 @@ pump-it-up-mavhine-learning/
 
 ## 📂 Dataset
 
-The project uses the **Pump It Up: Data Mining the Water Table** dataset, which contains information about thousands of water pumps in Tanzania. The goal is to predict whether each pump is:
+The project uses the [**Pump It Up: Data Mining the Water Table**](https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/) dataset, which contains information about thousands of water pumps in Tanzania. The goal is to predict whether each pump is:
 
 - Functional
 - Functional but needs repair

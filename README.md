@@ -55,7 +55,7 @@ Model performance is assessed using standard classification metrics such as:
 ## Project Structure
 
 ```text
-PUMPITUP_DATAMININGTHEWATERTABLES/
+pump-it-up-mavhine-learning/
 │
 ├── PumpItUp_DataMiningTheWaterTables.ipynb
 ├── Environment.yml

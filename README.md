@@ -51,6 +51,18 @@ Model performance is assessed using standard classification metrics such as:
 - Plotly
 - SciPy
 - Jupyter Notebook
+- 
+## Project Structure
+
+```text
+PUMPITUP_DATAMININGTHEWATERTABLES/
+│
+├── PumpItUp_DataMiningTheWaterTables.ipynb
+├── Environment.yml
+├── .gitignore
+├── LICENSE.txt
+└── README.md
+```
 
 ## 📂 Dataset
 
@@ -59,3 +71,12 @@ The project uses the **Pump It Up: Data Mining the Water Table** dataset, which 
 - Functional
 - Functional but needs repair
 - Non-functional
+
+## Instalation / Setup
+
+This project uses a Conda environment defined in the `Environment.yml` file. To recreate the environment, run:
+
+```bash
+conda env create -f Environment.yml
+conda activate pumpitup
+```

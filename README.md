@@ -8,7 +8,7 @@ The project follows a complete end-to-end machine learning pipeline, including *
 
 The objective is to accurately classify each water pump into its corresponding operational status, supporting data-driven decision-making for water infrastructure maintenance.
 
-## 🚀 Features
+## Features
 
 - Exploratory Data Analysis (EDA)
 - Data cleaning and preprocessing
@@ -20,7 +20,7 @@ The objective is to accurately classify each water pump into its corresponding o
 - Comparison of multiple machine learning models
 - Prediction generation for unseen data
 
-## 🤖 Models
+## Models
 
 Several classification algorithms are trained and evaluated, including:
 
@@ -29,7 +29,7 @@ Several classification algorithms are trained and evaluated, including:
 - Gradient Boosting
 - XGBoost
 
-## 📊 Evaluation
+## Evaluation
 
 Model performance is assessed using standard classification metrics such as:
 
@@ -39,7 +39,7 @@ Model performance is assessed using standard classification metrics such as:
 - F1-score
 - Confusion Matrix
 
-## 🛠️ Technologies
+## Technologies
 
 - Python
 - Pandas
